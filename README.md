@@ -1,4 +1,4 @@
-# GKWZNLP
+# GKWZNLP Project
 
 高考文科综合语义分析项目
 
