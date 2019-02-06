@@ -1,4 +1,4 @@
-# GKWZNLP Project 高考文综试题机器研究
+# GKWZNLP Project  高考文综试题机器研究
 
 ###   A. 条件反射的实现
 
